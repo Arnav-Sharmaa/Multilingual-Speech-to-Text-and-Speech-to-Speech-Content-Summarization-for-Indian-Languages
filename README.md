@@ -76,6 +76,8 @@ Run the pipeline:
 python pipeline.py
 ```
 
+You can find the trained models [here](https://drive.google.com/drive/folders/1dYlrZRb2ZA2xvDHDhnMTFIuBDwfUx5eW?usp=drive_link).
+
 Example usage:
 ```python
 audio_file = "/path/to/input.wav"
