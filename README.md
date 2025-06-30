@@ -8,9 +8,10 @@ This project develops a multilingual pipeline for speech-to-text (STT) and speec
 - **Text-to-Speech**: Indic Parler-TTS for synthesizing summaries into natural-sounding speech.
 
 Supported languages include English, Hindi, Punjabi, Urdu, Bengali, Tamil, Telugu, and Marathi.
-<p align="center" style="background-color: white; padding: 10px; display: inline-block;">
-  <img src="Methodology.png" alt="Pipeline Overview" width="600"/>
-</p>
+
+<div align="center">
+  <img width="100%" alt="Pipeline Overview" src="Methodology.jpg">
+</div>
 
 
 ## Repository Structure
