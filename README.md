@@ -8,7 +8,7 @@ This project develops a multilingual pipeline for speech-to-text (STT) and speec
 - **Text-to-Speech**: Indic Parler-TTS for synthesizing summaries into natural-sounding speech.
 
 Supported languages include English, Hindi, Punjabi, Urdu, Bengali, Tamil, Telugu, and Marathi.
-![Pipeline Overview](Methodoology.png)
+![Pipeline Overview](Methodology.png)
 
 ## Repository Structure
 - `asr.ipynb`: Notebook for fine-tuning the Whisper model for automatic speech recognition (ASR).
